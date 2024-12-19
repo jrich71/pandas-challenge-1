@@ -17,7 +17,10 @@ The Module 4 assignment is broken into four parts:
 
 It should be noted that the solution(s) were derived with resources that went beyond what the classes covered. In addition to instructor office hours and the Bootcamp's Slack channel, I relied on multiple resources:
 
-    - Pandas documentation: [https://pandas.pydata.org/docs/reference/general_functions.html](https://pandas.pydata.org/docs/reference/general_functions.html)
-    - Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
-    - ChatGPT: [https://chatgpt.com/](https://chatgpt.com/)
-    - Xpert Learning Assistant (available via the Bootcamp)
+- [Pandas documentation](https://pandas.pydata.org/docs/reference/general_functions.html)
+
+- [Stack Overflow](https://stackoverflow.com/)
+    
+- [ChatGPT](https://chatgpt.com/)
+    
+- Xpert Learning Assistant (available via the Bootcamp)
