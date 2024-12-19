@@ -20,7 +20,8 @@ It should be noted that the solution(s) were derived with resources that went be
 - [Pandas documentation](https://pandas.pydata.org/docs/reference/general_functions.html)
 
 - [Stack Overflow](https://stackoverflow.com/)
-    
+
 - [ChatGPT](https://chatgpt.com/)
-    
+
 - Xpert Learning Assistant (available via the Bootcamp)
+
